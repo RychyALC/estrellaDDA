@@ -26,7 +26,7 @@ function linea(p1, p2){
 	var p,xi,yi,k;
 	var dx = p2.x - p1.x;
     var dy = p2.y - p1.y;
-    
+
     
 	let y=p1.y,x=p1.x;
 	
